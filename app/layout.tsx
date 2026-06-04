@@ -24,12 +24,12 @@ const dancingScript = Dancing_Script({
   display: 'swap',
 })
 
-const siteUrl = 'https://v0-dance-studio-prototype-napoli-da-seven.vercel.app'
+const siteUrl = 'https://v0-dance-studio-prototype-h-demia.vercel.app'
 const siteName = 'HDemia Dance Studio'
 const siteTitle = 'HDemia Dance Studio | Scuola di danza a Sarno'
 const siteDescription =
   'HDemia Dance Studio e una scuola di danza a Sarno per bambini, ragazzi e adulti. Corsi di danza classica, aerea e cross fitness.'
-const ogImage = `${siteUrl}/OGIMAGE.jpg`
+const ogImage = `${siteUrl}/hdemia/ogimage.jpg`
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

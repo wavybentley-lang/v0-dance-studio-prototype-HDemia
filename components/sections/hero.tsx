@@ -45,9 +45,6 @@ export function HeroSection() {
       </div>
 
       <div className="relative z-10 ml-0 max-w-7xl px-4 pt-32 pb-24 text-left sm:px-6 sm:pt-36 sm:pb-28 lg:mx-auto lg:w-1/2 lg:px-8 lg:py-0">
-        <h1 className="animate-fade-in-up mb-6 text-left font-serif text-5xl leading-[0.96] font-bold text-balance text-[#F5F5F5] italic sm:text-6xl md:text-7xl lg:text-8xl">
-          HDemia Dance Studio
-        </h1>
         <p className="animate-fade-in-up animate-delay-200 mb-4 max-w-none text-lg leading-relaxed font-light text-pretty text-white sm:text-xl lg:max-w-xl lg:text-2xl">
           Dove talento, tecnica e passione diventano danza.
         </p>

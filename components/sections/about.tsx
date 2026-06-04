@@ -32,7 +32,7 @@ export function AboutSection({ isVisible, setSectionRef }: AboutSectionProps) {
           </div>
 
           <div className="max-w-2xl">
-            <p className="mb-3 text-xs font-semibold tracking-[0.28em] text-primary uppercase">Chi siamo</p>
+            <p className="mb-3 text-xs font-semibold tracking-[0.28em] text-primary uppercase">FORMIAMO DANZATORI, ISPIRIAMO PERSONE</p>
             <h2 className="mb-6 font-serif text-4xl font-bold text-foreground sm:text-5xl">
               Chi Siamo
             </h2>
